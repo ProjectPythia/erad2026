@@ -23,6 +23,9 @@
     <loc>http://localhost:3000/notebooks/data-access/intro-data-access</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/data-access/station-data-access</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/xradar/xradar-basics</loc>
   </url>
   <url>
@@ -62,6 +65,9 @@
     <loc>http://localhost:3000/notebooks/pyart/pyart-gridding</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/notebooks/pyart/pyart-zdr-correction</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/notebooks/workflow/workflow-overview</loc>
   </url>
   <url>
@@ -72,6 +78,21 @@
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/workflow/dem-beamblockage</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/workflow/system-phidp</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/workflow/delta-phidp</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/workflow/phidp</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/workflow/attenuation-single-pol</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/workflow/attenuation-dual-pol</loc>
   </url>
   <url>
     <loc>http://localhost:3000/notebooks/workflow/gridding-data</loc>
